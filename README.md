@@ -1,6 +1,7 @@
 # HtmlContentExtractor
 
 ## Clone with GIT
+
 Install Git
 
 $ git clone https://github.com/apinzonf/HtmlContentExtractor.git
@@ -11,6 +12,7 @@ $ git clone https://github.com/apinzonf/HtmlContentExtractor.git
 Install JDK 1.8 and Maven 3.5
 
 $ cd HtmlContentExtractor
+
 $ mvn compile
 
 
@@ -29,4 +31,5 @@ $ java -jar ./target/html-content-extractor-0.0.1-SNAPSHOT.jar -input ./src/main
 ## usage: html-context-extractor
 
 -input <arg>    a location of a file that has a list of URLs
+
 -output <arg>   a location of a folder to write the results
