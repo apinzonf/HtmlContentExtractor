@@ -1,8 +1,15 @@
 # HtmlContentExtractor
 
+## Clone with GIT
+Install Git
+
+$ git clone https://github.com/apinzonf/HtmlContentExtractor.git
+
 ## Compile
 
 Install JDK 1.8 and Maven 3.5
+
+$ cd HtmlContentExtractor
 
 $ mvn compile
 
